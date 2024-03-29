@@ -1,2 +1,4 @@
-# Power-BI-Project_1
+# Power-BI-Projects
 HR Analytics Dashboard
+Sales Analytics
+IPL Analytics 
